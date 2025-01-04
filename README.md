@@ -3,10 +3,18 @@
 
 <h2 align="left">
 Where to find me: </h2>
+<p align="center">
+  <a href="https://yassin.dev">
+    <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge" />
+  </a>
+  <a href="https://x.com/khoualdi_yassin">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge" />
+  </a>
+  <a href="https://github.com/yassin">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+</p>
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white&scale=2)](https://yassin.dev)
-[![X Badge](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white&scale=2)](https://x.com/khoualdi_yassin)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&scale=2)](https://github.com/yassin)
 
 <h2 align="left">
 About Me </h2>

@@ -14,7 +14,7 @@ Where to find me: </h2>
 About Me </h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0d8ece&size=30&center=true&vCenter=true&width=800&height=80&lines=Hey+there!+I'm+Yassin;Programmer+%2C+Student+%26+Open+source+enthousiast;Passionate+about+AI+and+Space;Building+for+the+Future;Problem+Solver+and+Dreamer">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0d8ece&size=30&center=true&vCenter=true&width=800&height=80&lines=Hey+there!+I'm+Yassin;Programmer%2C+Student+%26+Open+source+enthousiast;Passionate+about+shaping+the+Future;You+can+just+do+things.">
 </p>
 
 ```go

@@ -59,7 +59,11 @@ func main() {
 <h2 align="left">
 
   
-Knowledge is powerless unless it’s applied with purpose. </h2>
+Knowledge is powerless unless it’s applied with purpose. 
+
+
+
+</h2>
 
 
 

@@ -76,5 +76,5 @@ Workspace </h2>
 
 <h2 align="center">
 Profile Views </h2>
-
-![](https://komarev.com/ghpvc/?username=yassin&style=for-the-badge)
+<p align='center'>
+![](https://komarev.com/ghpvc/?username=yassin&style=for-the-badge)</p>

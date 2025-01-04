@@ -4,10 +4,8 @@
 <h2 align="left">
 Where to find me: </h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&scale=2)](https://www.linkedin.com/in/yassin/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white&scale=2)](https://yassin.dev)
 [![X Badge](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white&scale=2)](https://x.com/khoualdi_yassin)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white&scale=2)](https://instagram.com/yassin)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&scale=2)](https://github.com/yassin)
 
 <h2 align="left">
@@ -45,6 +43,8 @@ func main() {
 <h2 align="left">
 Knowledge is powerless unless it’s applied with purpose. </h2>
 
+
+
 | **Category**         | **Technologies**                                                                                           | **Quote**                                                                                     |
 |----------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | **Programming**       | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | Code is like humor. When you have to explain it, it’s bad.                   |
@@ -72,16 +72,9 @@ Workspace </h2>
 </a>
 </p>
 
-# Magic GitHub Game 🎮✨
-
-Want to play a fun game? Just click the button below and watch the magic happen!
-
-[![Click Me!](https://img.shields.io/badge/Magic-Click%20Me-blue)](https://github.com/YOUR_USERNAME)
-
-Every click increases the fun! 🎉
 
 
-<h2 align="left">
+<h2 align="center">
 Profile Views </h2>
 
 ![](https://komarev.com/ghpvc/?username=yassin&style=for-the-badge)

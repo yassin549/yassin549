@@ -1,4 +1,4 @@
-![Github Banner](banner.png)
+![Github Banner](https://github.com/yassin549/yassin549/banner.png)
 <div align="left">
 
 <h2 align="left">
@@ -29,50 +29,28 @@ type Developer struct {
 }
 func main() {
    yassin := Developer{
-        Code:             []string{"Python", "JavaScript", "Django", "React", "HTML", "CSS"},
-        Interests:        []string{"AI Development", "Emotional Well-being Tech", "Space Exploration"},
+        Code:             []string{"Python", "JavaScript", "Django", "Java", "C++", "Go"},
+        Interests:        []string{"AI Development", "Full stack web applications", "philosophy"},
         OperatingSystems: []string{"Linux", "Windows"},
         ToolsUsed:        []string{"VS Code", "Postman", "Docker"},
         IDEs:             []string{"VS Code", "PyCharm"},
     }
-    fmt.Printf("👋 Hello! I'm Yassin, a developer.\n")
+    fmt.Printf("👋 Hello! I'm Yassin, a programmer.\n")
     fmt.Printf("💻 Code: %v\n", yassin.Code)
     fmt.Printf("🌐 Interests: %v\n", yassin.Interests)
     fmt.Printf("🖥️ Operating Systems: %v\n", yassin.OperatingSystems)
     fmt.Printf("🛠️ Tools Used: %v\n", yassin.ToolsUsed)
 }
 ```
-<br />
-<h2 align="left">Technologies and Languages</h2>
+| **Category**         | **Technologies**                                                                                           | **Quote**                                                                                     |
+|----------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| **Programming**       | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | Code is like humor. When you have to explain it, it’s bad.                   |
+| **Frontend**          | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)       ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)   | Design is not just what it looks like and feels like. Design is how it works. |
+| **Backend**           | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | First, solve the problem. Then, write the code." – John Johnson                            |
+| **Databases**         | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | Without data, you’re just another person with an opinion.             |
+| **DevOps/Tools**      | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | It’s not the tools you have faith in – tools are just tools. They work, or they don’t. |
+| **AI/ML & Data Science** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | In Nature we trust. All others must bring data.                           |
 
-<h3 align="left">Languages</h3>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-<h3 align="left">Technologies</h3>
-
-<img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
-<a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
-</a>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-<a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
-</a>
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-
-<h3 align="left">IDEs</h3>
-
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white">
-
-<h3>+ many more!</h3>
 
 <h2 align="left">
 Workspace </h2>

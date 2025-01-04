@@ -1,7 +1,7 @@
 ![Github Banner](banner.png)
 <div align="left">
 
-<h2 align="left">
+<h2 align="center">
 Where to find me: </h2>
 
 
@@ -24,7 +24,7 @@ Where to find me: </h2>
 </p>
 
 
-<h2 align="left">
+<h2 align="center">
 About Me </h2>
 
 <p align="center">

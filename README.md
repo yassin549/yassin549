@@ -6,7 +6,7 @@ Where to find me: </h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&scale=2)](https://www.linkedin.com/in/yassin/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white&scale=2)](https://yassin.dev)
-[![X Badge](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white&scale=2)](https://twitter.com/yassin)
+[![X Badge](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white&scale=2)](https://x.com/khoualdi_yassin)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white&scale=2)](https://instagram.com/yassin)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&scale=2)](https://github.com/yassin)
 
@@ -71,6 +71,15 @@ Workspace </h2>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yassin&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+# Magic GitHub Game 🎮✨
+
+Want to play a fun game? Just click the button below and watch the magic happen!
+
+[![Click Me!](https://img.shields.io/badge/Magic-Click%20Me-blue)](https://github.com/YOUR_USERNAME)
+
+Every click increases the fun! 🎉
+
 
 <h2 align="left">
 Profile Views </h2>

@@ -3,6 +3,8 @@
 
 <h2 align="left">
 Where to find me: </h2>
+
+
 <p align="center">
   <a href="https://yassin.dev">
     <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge" />
@@ -12,6 +14,9 @@ Where to find me: </h2>
   </a>
   <a href="https://github.com/yassin">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+  <a href="https://wa.me/21626094214">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" />
   </a>
 </p>
 

@@ -42,6 +42,9 @@ func main() {
     fmt.Printf("🛠️ Tools Used: %v\n", yassin.ToolsUsed)
 }
 ```
+<h2 align="left">
+Knowledge is powerless unless it’s applied with purpose. </h2>
+
 | **Category**         | **Technologies**                                                                                           | **Quote**                                                                                     |
 |----------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | **Programming**       | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | Code is like humor. When you have to explain it, it’s bad.                   |
